@@ -1,0 +1,8 @@
+{
+  "name": "paysafe-demo",
+  "version": "0.0.1",
+  "description": "Paysafe Demo",
+  "scripts" : {
+    "start" : "node server.js"
+  }
+}
